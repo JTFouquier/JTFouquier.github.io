@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publications"
 ---
 
 ```{r setup, include=FALSE}

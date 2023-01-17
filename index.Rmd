@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ''
 ---
 
 ```{r setup, include=FALSE}
@@ -53,7 +53,7 @@ h1, h2, h3 {
 
 <font size="5"> I am a PhD candidate at [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/) working under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/).
 
-My research focuses on ::::INDEX RMD::::::. </font>
+My research focuses on ....  </font>
 
 :::
 ::::
@@ -80,7 +80,7 @@ My research focuses on ::::INDEX RMD::::::. </font>
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="assets/photos/Jen.JPG" 
+    src="assets/photos/Jen.jpg" 
     alt="Jen">
 </p>
 </h1>
