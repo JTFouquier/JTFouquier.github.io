@@ -1,7 +1,7 @@
-name: "Jacob Nearing's Personal Website"
+name: "Jennifer Fouquier"
 output_dir: "docs"
 navbar:
-  title: "Jacob T. Nearing"
+  title: "Jennifer Fouquier"
   left:
     - text: "Home"
       href: index.html
