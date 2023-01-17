@@ -39,8 +39,8 @@ h1, h2, h3 {
            margin-left: auto;
            margin-right: auto;
            width: 200%;"
-    src="assets/photos/home_photo1.png" 
-    alt="Jacob and his dog Finnigan">
+    src="assets/photos/Jen.jpg" 
+    alt="Jen">
 </img>
 
 
@@ -51,9 +51,9 @@ h1, h2, h3 {
 
 <font size="20"> About </font>
 
-<font size="5"> I am a PhD candidate at The Anschutz [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/) working under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/).
+<font size="5"> I am a PhD candidate at [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/) working under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/).
 
-My research focuses on. </font>
+My research focuses on ::::INDEX RMD::::::. </font>
 
 :::
 ::::
