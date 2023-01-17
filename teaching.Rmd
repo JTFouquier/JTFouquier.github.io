@@ -3,12 +3,11 @@ title: "Teaching"
 ---
 
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-See my [CV](CV.html)
+See my [CV](cv.html)
 
 
 TODO:
