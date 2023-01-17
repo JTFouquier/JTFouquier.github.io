@@ -18,8 +18,6 @@ TODO:
     - [PICRUst2 Tutorial](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2021-PICRUSt2-Tutorial)
     
     - [Metagenomic Shotgun Analysis Tutorial](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2021-Metagenomic-Taxonomic-and-Functional-Composition-Tutorial)
-    
-    - [Statistical Analysis of Microbiome Data](https://www.youtube.com/watch?v=jclb5g1ZUlY&ab_channel=JacobNearing)
 
 
 List:
