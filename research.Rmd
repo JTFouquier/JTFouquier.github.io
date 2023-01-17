@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p>
 
-Please see my [CV](CV.html). Bio coming soon
+Please see my [CV](cv.html). Bio coming soon
 
 <h2> Bio </h2>
 

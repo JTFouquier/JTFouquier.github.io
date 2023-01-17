@@ -8,11 +8,11 @@ navbar:
     - text: "Research"
       href: research.html 
     - text: "Publications"
-      href: publications.html    
+      href: publications.html
     - text: "Teaching"
-      href: Teaching.html
+      href: teaching.html
     - text: "CV"
-      href: CV.html
+      href: cv.html
       
 output:
   html_document:

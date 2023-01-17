@@ -9,8 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p>
 
-<font size="20"> Publications <font>
-
 <font size="4"> 
 
 Coming soon
