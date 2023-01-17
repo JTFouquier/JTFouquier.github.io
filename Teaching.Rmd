@@ -8,17 +8,12 @@ title: "Teaching"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-During my PhD I have had the opportunity to assist in teaching several different classes ranging from bioinformatic workshops to macromolecular virology.
-I take great pride in teaching and always ensure that the topics being taught are approachable from a broad range of different learning styles. I really enjoy taking complex topics in bioinformatics, computer science, or molecular biology and explaining them in more digestible formats.
+See my [CV](CV.html)
 
 
-Below I have included my various teaching experiences as well as several different microbiome workshop materials I had developed for the 2021 Microbiome Canadian Bioinformatics Workshop. For further information on my teaching responsibilities checkout my [CV](CV.html)
+TODO:
 
-
-Workshop Experience:
-
-  - I have had the pleasure of teaching at the Canadian Bioinformatics Workshops series. Below are the links to the various content that I developed for this workshop series.
+  - TODO
   
     - [PICRUst2 Tutorial](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2021-PICRUSt2-Tutorial)
     
@@ -27,19 +22,14 @@ Workshop Experience:
     - [Statistical Analysis of Microbiome Data](https://www.youtube.com/watch?v=jclb5g1ZUlY&ab_channel=JacobNearing)
 
 
-Teaching Experience:
+List:
 
-  - I helped teach several different classes offered at Dalhousie University. These include both hands on laboratory demonstrations and lectures.
+  - 
   
-      - MICI 3114: Virology
+      - One
       
-      - MICI 2100: Introduction to Microbiology and Immunology
+      - Two
       
-      - BIOC 3400: Nucleic Acid Biochemistry and Molecular Biology
-
-
-Supervisory Experience:
-
-  - During my PhD I have had the opportunity to supervise an undergraduate student’s honors project examining the prevalence of anti-microbial resistance genes in pediatric acute lymphoblastic leukemia patients.
+      - Three
  
   

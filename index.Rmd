@@ -51,9 +51,9 @@ h1, h2, h3 {
 
 <font size="20"> About </font>
 
-<font size="5"> I am a PhD candidate at Dalhousie University (Halifax, Nova Scotia, Canada) in the [Department of Microbiology and Immunology](https://medicine.dal.ca/departments/department-sites/microbiology.html) working under the supervision of [Dr. Morgan Langille](https://morganlangille.com/).
+<font size="5"> I am a PhD candidate at The Anschutz [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/) working under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/).
 
-My research is currently focussed on how we can analyze microbiome data in a robust manner to identify associations between various microbes and the development or progression of cancer. I have also worked as a bioinformatician on a number of other projects ranging from microarray expression data to microbiome soil analysis. </font>
+My research focuses on. </font>
 
 :::
 ::::
@@ -64,7 +64,7 @@ My research is currently focussed on how we can analyze microbiome data in a rob
 <hr />
 
 <h1>
-  Follow me to see my latest works
+  Follow me on the following platforms
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -72,16 +72,16 @@ My research is currently focussed on how we can analyze microbiome data in a rob
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://twitter.com/JTNearing" class="fa fa-twitter" style="font-size:50px;"></a>
-    <a href="https://github.com/nearinj/" class="fa fa-github" style="font-size:50px;"></a>
+    <a href="https://twitter.com/JTFouquier/" class="fa fa-twitter" style="font-size:50px;"></a>
+    <a href="https://github.com/JTFouquier/" class="fa fa-github" style="font-size:50px;"></a>
     <a href="https://scholar.google.ca/citations?user=ZRZfufoAAAAJ" class="fa fa-graduation-cap" style="font-size:50px;"></a>
     <img 
         style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="assets/photos/email.JPG" 
-    alt="Jacob and his dog Finnigan">
+    src="assets/photos/Jen.JPG" 
+    alt="Jen">
 </p>
 </h1>
 
