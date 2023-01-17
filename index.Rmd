@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: ''
 ---
 
 ```{r setup, include=FALSE}
@@ -49,11 +49,11 @@ h1, h2, h3 {
 :::
 ::: {.column width="55%"}
 
-<font size="20"> About </font>
+<font size="18"> About </font>
 
 <font size="5"> I am a PhD candidate at [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/) working under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/).
 
-My research focuses on ....  </font>
+My research focuses on (coming soon)  </font>
 
 :::
 ::::
@@ -74,7 +74,7 @@ My research focuses on ....  </font>
 <p style="text-align: center;">
     <a href="https://twitter.com/JTFouquier/" class="fa fa-twitter" style="font-size:50px;"></a>
     <a href="https://github.com/JTFouquier/" class="fa fa-github" style="font-size:50px;"></a>
-    <a href="https://scholar.google.ca/citations?user=ZRZfufoAAAAJ" class="fa fa-graduation-cap" style="font-size:50px;"></a>
+    <a href="https://scholar.google.com/citations?user=85GOdJ4AAAAJ&hl=en" class="fa fa-graduation-cap" style="font-size:50px;"></a>
     <img 
         style="display: block; 
            margin-left: auto;
