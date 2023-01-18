@@ -18,12 +18,10 @@ max-width: 1200px;
     font-size: 200px;
 }
 
-
 p {
   margin-top: 30px;
   #line-height: 200%
 }
-
 
 h1, h2, h3 {
    text-align: center;
@@ -49,22 +47,20 @@ h1, h2, h3 {
 :::
 ::: {.column width="55%"}
 
-<font size="18"> About </font>
+<font size="6"> About </font>
 
-<font size="5"> I am a PhD candidate at [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/) working under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/).
-
-My research focuses on (coming soon)  </font>
+<font size="3">I am a PhD Candidate in Computational Bioscience at [The University of Colorado Anschutz Medical Campus](https://www.cuanschutz.edu/). I am funded as an NIH/NLM T15 Biomedical Informatics and Data Science trainee under the guidance of [Dr. Catherine Lozupone](https://www.lozuponelab.com/). My research involves development of computational methods for feature selection in longitudinal microbiome studies using machine learning methods. My projects include research on autism spectrum disorder and HIV. I received my BS in Microbiology from the University of California, San Diego and my MS in Bioinformatics and Medical Informatics from San Diego State University. I began my career in the wet lab and transitioned to computational work including investigations of the mycobiome of the built environment; pharmacogenetics; laboratory information management systems (LIMS); website development and natural language processing (NLP). I plan to graduate in 2024 and seek a career in industry as a bioinformatics scientist.
+</font>
 
 :::
 ::::
 
 </p>
-
 &nbsp;
-<hr />
+<hr/>
 
-<h1>
-  Follow me on the following platforms
+<h2>
+  Connect with me:
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -72,17 +68,12 @@ My research focuses on (coming soon)  </font>
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://twitter.com/JTFouquier/" class="fa fa-twitter" style="font-size:50px;"></a>
-    <a href="https://github.com/JTFouquier/" class="fa fa-github" style="font-size:50px;"></a>
-    <a href="https://scholar.google.com/citations?user=85GOdJ4AAAAJ&hl=en" class="fa fa-graduation-cap" style="font-size:50px;"></a>
-    <img 
-        style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 20%;"
-    src="assets/photos/Jen.jpg" 
-    alt="Jen">
+    <a href="https://twitter.com/JTFouquier/" class="fa fa-twitter" style="font-size:40px;"></a>
+    <a href="https://github.com/JTFouquier/" class="fa fa-github" style="font-size:40px;"></a>
+    <a href="https://scholar.google.com/citations?user=85GOdJ4AAAAJ&hl=en" class="fa fa-graduation-cap"
+    style="font-size:40px;"></a>
+    <a href="https://www.linkedin.com/in/jennifer-fouquier-45856b7/" class="fa fa-linkedin"                   style="font-size:40px;"></a>
 </p>
-</h1>
+</h2>
 
 &nbsp;

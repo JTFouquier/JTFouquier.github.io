@@ -6,28 +6,12 @@ title: "Research"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<p>
 
-Please see my [CV](cv.html). Bio coming soon
-
-<h2> Bio </h2>
-
-Please see my [Google Scholar Profile](https://scholar.google.com/citations?user=85GOdJ4AAAAJ&hl=en).
+Coming soon
 
 
-<h2> TODO </h2>
 
 
-<h2> Other interests TODO </h2>
-
-<ul>
-
-<li>	TODO </li>
-<li>  Two </li>
-<li>  Three </li>
-<li>  Four </li>
-<li>  Five </li>
-</ul>
 
 
 

@@ -6,12 +6,6 @@ title: "Publications"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 <p>
-
-<font size="4"> 
-
-Coming soon
-
-
-</font>
+    Please see my [Google Scholar profile](https://scholar.google.com/citations?user=85GOdJ4AAAAJ&hl=en) for a list of publications
+</p>

@@ -5,17 +5,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html 
-    - text: "Publications"
-      href: publications.html
-    - text: "Teaching"
-      href: teaching.html
     - text: "CV"
       href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Research"
+      href: research.html 
+
+
       
 output:
   html_document:
-    theme: cosmo
+    theme: sandstone
     margin-top: 0
 
